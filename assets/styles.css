@@ -1,0 +1,59 @@
+#input1, #input2, #input3, #changeInput {
+  padding: 10px
+}
+
+#graph6 {
+  color: red;
+}
+
+#submit1 {
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+}
+
+#submitFaculty {
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+}
+
+#submit2 {
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+}
+
+#delete1 {
+  padding: 10px;
+  background-color: red;
+  color: white;
+  border: none;
+}
+
+#prof_img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: auto;
+  max-width: 200px;
+}
+
+.row {
+  width: 100%;
+  height: 50%;
+  display: flex;
+}
+
+.figure {
+  border:1px solid black;
+  width: 33%;
+}
+
+.figurecomponents {
+  padding: 10px;
+}
