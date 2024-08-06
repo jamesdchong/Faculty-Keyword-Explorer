@@ -3,6 +3,10 @@
 ## Title:
 Faculty and Keyword Explorer
 
+![Picture1](https://github.com/user-attachments/assets/add3fcf5-bd2a-4023-b68a-54f87d0169bb)
+![Picture2](https://github.com/user-attachments/assets/7d56c1c8-dadd-49ba-9d6f-7b13c17e4fcb)
+
+
 ## Purpose:
 The application scenario is designed to assist individuals seeking information about specific professors or universities, with a particular focus on how they relate to specific keywords. The target audience includes aspiring university students, current students, researchers, and professors. The goal is to provide valuable insights into faculty and universities, along with their related keywords. For example, an aspiring student interested in machine learning could easily find universities and specific faculty members that are highly correlated with that field. They could then access detailed information about those faculty members to assist with their decision-making process. Similarly, current students or researchers focused on a particular topic or keyword can use the application to identify relevant universities and faculty members.
 
